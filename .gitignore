@@ -25,7 +25,6 @@ vit/
 *.tsv
 *.xml
 *.out
-*.png
 *.yaml
 *.xlsx
 *.utrs
