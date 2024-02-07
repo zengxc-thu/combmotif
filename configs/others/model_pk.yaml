@@ -1,0 +1,3 @@
+model_list: ['hl_predictor', 'hl_predictor_mouse']
+method: neuronmotif
+conv_layer_list: ['conv1','conv2','conv3','conv4','conv5','conv6','conv7']

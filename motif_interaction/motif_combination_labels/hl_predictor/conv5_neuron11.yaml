@@ -1,0 +1,17 @@
+combination1:
+  motifA:
+    - TATATA 
+  motifB:
+    - TGTATA #hsa-let-7b-3p
+
+combination2:
+  motifA:
+    - TGTATA 
+  motifB:
+    - TGTATA 
+
+combination3:
+  motifA:
+    - TATATA 
+  motifB:
+    - TATATA 

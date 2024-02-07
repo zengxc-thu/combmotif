@@ -1,0 +1,30 @@
+# deeper layer first
+conv1:
+  input: 4
+conv2:
+  conv1: 4
+conv3:
+  conv2: 4
+  conv1: 4
+conv4:
+  conv3: 4
+  conv2: 4
+  conv1: 4
+conv5:
+  conv4: 4
+  conv3: 4
+  conv2: 4
+  conv1: 4
+conv6:
+  conv5: 4
+  conv4: 4
+  conv3: 4
+  conv2: 4
+  conv1: 4
+conv7:
+  conv6: 4
+  conv5: 4
+  conv4: 4
+  conv3: 4
+  conv2: 4
+  conv1: 4

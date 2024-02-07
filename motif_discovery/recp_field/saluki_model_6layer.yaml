@@ -1,0 +1,13 @@
+conv1: 5
+conv2: 9
+conv3: 18
+conv4: 36
+conv5: 72
+conv6: 144
+conv7: 288
+maxpool1: 10
+maxpool2: 20
+maxpool3: 40
+maxpool4: 80
+maxpool5: 160
+maxpool6: 320

@@ -1,0 +1,15 @@
+combination1:
+  motifA:
+    - TCCTCC #hsa-miR-3125
+  motifB:
+    - CCTCCT #hsa-miR-4779
+combination2:
+  motifA:
+    - CCTCCT
+  motifB:
+    - CCTCCT
+combination3:
+  motifA:
+    - TCCTCC
+  motifB:
+    - TCCTCC

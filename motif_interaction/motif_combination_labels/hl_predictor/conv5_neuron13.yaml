@@ -1,0 +1,17 @@
+combination1:
+  motifA:
+    - CGCCGC #hsa-miR-3960
+  motifB:
+    - CCCCCN #hsa-miR-6794-5p
+
+combination2:
+  motifA:
+    - CGCCGC 
+  motifB:
+    - CGCCGC 
+
+combination3:
+  motifA:
+    - CCCCCN 
+  motifB:
+    - CCCCCN 

@@ -1,0 +1,20 @@
+combination1:
+  motifA:
+    - TTCTTT
+  motifB:
+    - TTTTTT
+combination2:
+  motifA:
+    - TTCTTT
+  motifB:
+    - TTTTC
+combination3:
+  motifA:
+    - TTTTTT
+  motifB:
+    - TTTTC
+combination4:
+  motifA:
+    - TTCTTT
+  motifB:
+    - TTCTTT

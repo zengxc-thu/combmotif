@@ -1,0 +1,5 @@
+combination1:
+  motifA:
+    - CTTTNN #RNCMPT00269 (PTBP1)
+  motifB:
+    - CGCGC #RNCMPT00056 (RBM8A)

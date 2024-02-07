@@ -1,0 +1,12 @@
+data_path: ../data/f0_c0_data0_wholeseq.h5
+output_dir: ./results/hl_predictor
+num_layer: 6
+padding: 0
+num_targets: 1
+seq_length: 12288
+seq_depth: 6
+patience: 100
+lr: 0.0001 
+epochs: 250 
+dropout: 0.2 
+batch_size: 64 

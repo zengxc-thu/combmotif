@@ -1,0 +1,51 @@
+task,motifA_id,motifB_id,motifA,motifB,a-o,b-o,ab-a,ab-b,ab-o,Wilcoxon-p,interaction,interaction-p
+conv5_neuron7,hsa-miR-3125,hsa-miR-3125,TCCTCC,CCTCCT,-1.25E-13,-5.97E-10,-3.66E-06,-7.46E-07,-4.83E-15,,addictive,0.64550784
+conv5_neuron7,hsa-miR-3125,hsa-miR-3125,CCTCCT,CCTCCT,-7.02E-13,-5.27E-13,-0.000809169,-4.79E-05,-1.18E-13,,addictive,0.529806385
+conv5_neuron7,hsa-miR-3125,hsa-miR-3125,TCCTCC,TCCTCC,-2.52E-16,-1.31E-17,-1.38E-08,-1.72E-07,-3.85E-20,,addictive,0.504269067
+conv5_neuron11,AU-rich element,hsa-let-7b-3p,TATATA,TGTATA,-0.00100708,-0.000579834,-3.05E-05,-6.10E-05,-0.000152588,,negative_antagonistic,0.000213623
+conv5_neuron11,hsa-let-7b-3p,hsa-let-7b-3p,TGTATA,TGTATA,-0.016113281,-0.016113281,-0.004882813,-0.004882813,-0.003417969,,negative_antagonistic,0.016113281
+conv5_neuron11,AU-rich element,AU-rich element,TATATA,TATATA,-1.34E-05,-1.34E-05,-3.62E-05,-9.54E-06,-3.81E-06,,negative_antagonistic,0.000104904
+conv5_neuron12,AU-rich element,AU-rich element,TATATA,TATATA,-3.71E-25,-4.47E-27,-5.47E-30,-4.98E-30,-5.56E-36,,negative_antagonistic,4.24E-09
+conv5_neuron13,hsa-miR-3960,hsa-miR-128-2-5p,CGCCGC,CCCCCN,0.130307361,1.28E-05,0.356194278,-0.218102051,0.019851502,,positive_synergistic,0.04081166
+conv5_neuron13,hsa-miR-3960,hsa-miR-3960,CGCCGC,CGCCGC,0.103977808,0.254135693,0.001602728,0.002175123,8.64E-06,,addictive,0.084980364
+conv5_neuron13,hsa-miR-128-2-5p,hsa-miR-128-2-5p,CCCCCN,CCCCCN,3.83E-07,2.22E-06,0.003461562,5.10E-05,7.77E-11,,addictive,0.775283725
+conv5_neuron14,AU-rich element,AU-rich element,TATATA,TATATA,-3.65E-96,-1.42E-105,-4.14E-133,-1.64E-126,-3.38E-190,,negative_antagonistic,6.29E-50
+conv5_neuron16,m6A element,Pumilio element,GGAC,TGTANA,-0.020996094,-0.569335938,0.969726563,-0.203613281,-0.026855469,,addictive,0.233398438
+conv5_neuron19,HuR,HuR,TTTTTT,TTTTTT,-0.028991699,-0.000305176,-0.01550293,-0.10458374,-0.000213623,,addictive,0.528167725
+conv5_neuron20,AU-rich element,AU-rich element,TATATA,TATATA,-1.10E-35,-4.32E-32,-3.18E-58,-2.98E-58,-3.01E-73,,negative_antagonistic,7.76E-22
+conv5_neuron21,HuR,HuR,TTTTTT,TTTTTT,-1.70E-05,-3.13E-06,-0.002922805,-0.005133391,-4.48E-07,,addictive,0.210343135
+conv5_neuron22,AU-rich element,HuR,TATATA,TTTTTT,-0.016406655,-2.38E-07,-1.31E-05,-0.002245784,-1.19E-06,,negative_antagonistic,0.019441962
+conv5_neuron22,HuR,HuR,TTTTTT,TTTTTT,-1.05E-102,-1.70E-106,-8.11E-69,-3.80E-70,-8.70E-110,,negative_synergistic,2.44E-13
+conv5_neuron22,AU-rich element,AU-rich element,TATATA,TATATA,-0.000122926,-3.81E-05,-7.51E-16,-6.77E-17,-6.76E-15,,negative_antagonistic,3.44E-10
+conv5_neuron23,AU-rich element,HuR,TATATA,TTTTTT,-0.078125,-0.03125,-0.015625,-0.21875,-0.03125,,addictive,0.296875
+conv5_neuron23,PABC1/4 element,HuR,AAAAAA,TTTTTT,-0.6875,-0.0625,-0.15625,0.15625,-0.5625,,negative_synergistic,0.03125
+conv5_neuron25,m6A element,Pumilio element,GGAC,TGTANA,-3.01E-08,-6.88E-08,-4.42E-07,-2.13E-07,-3.18E-10,,addictive,0.707999268
+conv5_neuron26,m6A element,Pumilio element,GGAC,TGTANA,-0.012207031,-0.009277344,-0.052246094,-0.000488281,-0.000488281,,addictive,0.518554688
+conv5_neuron28,HuR,PTBP1,TTTTTT,TTTTC,-0.00015861,-0.061498542,-0.410648269,-0.01585818,-0.018469615,,addictive,0.653594296
+conv5_neuron29,AU-rich element,AU-rich element,TATATA,TATATA,-7.81E-27,-1.27E-26,-6.51E-41,-1.34E-35,-4.25E-50,,negative_antagonistic,1.17E-17
+conv5_neuron29,hsa-let-7b-3p,hsa-let-7b-3p,TGTATA,TGTATA,-5.20E-19,-5.38E-18,-1.18E-17,-6.40E-20,-5.32E-22,,negative_antagonistic,7.31E-06
+conv5_neuron29,AU-rich element,hsa-let-7b-3p,TATATA,TGTATA,-6.25E-16,-9.42E-17,-1.37E-22,-3.31E-23,-3.13E-27,,negative_antagonistic,9.06E-11
+conv5_neuron31,AU-rich element,AU-rich element,TATATA,TATATA,-0.0625,-0.03125,-0.15625,-0.09375,-0.03125,,addictive,1
+conv5_neuron31,hsa-let-7b-3p,hsa-let-7b-3p,TGTATA,TGTATA,-0.03125,-0.03125,-0.09375,-0.03125,-0.03125,,addictive,0.0625
+conv5_neuron31,AU-rich element,hsa-let-7b-3p,TATATA,TGTATA,-0.03125,-0.015625,-0.015625,-0.03125,-0.015625,,addictive,0.6875
+conv5_neuron32,HuR,AU-rich element,TTTTTT,TATATA,-1.55E-31,-2.88E-17,-9.81E-16,-3.63E-25,-3.15E-31,,addictive,0.71635525
+conv5_neuron32,HuR,RBM4,TTTT,CGCG,-0.0006103515625,-0.3575439453125,0.625732421875,-0.000244140625,-0.0003662109375,,addictive,0.5416259765625
+conv5_neuron33,HNRNPL,RBMS3,ACACAC,ATATA,0.359536809,-0.349815619,-0.925510561,0.041531491,-0.626844914,,addictive,0
+conv5_neuron35,PTBP1,RBM4,CTTTNN,CGCGC,0.07421875,0.0546875,0.203125,0.359375,0.01953125,,addictive,0.734375
+conv5_neuron37,hsa-miR-7110-3p ,HuR,AGAGAG,TTTTT,0.84082222,-0.05316925,-0.002325058,-0.277355194,-0.00365448,,addictive,0
+conv5_neuron37,hsa-miR-7110-3p ,hsa-miR-7110-3p ,AGAGAG,AGAGAG,0.003047477,0.003692802,0.058776112,0.157241941,2.11E-05,,addictive,0.918469606
+conv5_neuron39,m6A element,HuR,GGAC,NTTTTN,-1.70E-12,-0.003159856,-0.256404543,-1.42E-07,-4.16E-10,,addictive,0.603007779
+conv5_neuron40,HuR,HuR,TTTTTT,TTTTTT,-3.67E-18,-5.55E-17,-3.75E-09,-5.87E-08,-3.20E-21,,negative_synergistic,8.45E-05
+conv5_neuron41,AU-rich element,HNRNPL,TATATA,ACACAC,-0.104206235,0.827044838,0.659242644,-0.447991727,-0.512158973,,addictive,0
+conv5_neuron43,AU-rich element,AU-rich element,TATATATATA,TATATATATA,-1.45E-33,-3.77E-37,-2.57E-55,-2.63E-51,-2.08E-61,,negative_antagonistic,3.44E-27
+conv5_neuron45,Pumilio element,AU-rich element,TGTANA,TATATA,-4.26E-10,-4.94E-10,-2.72E-10,-5.32E-11,-3.51E-11,,negative_antagonistic,7.98E-07
+conv5_neuron45,Pumilio element,Pumilio element,TGTANA,TGTANA,-5.52E-18,-1.70E-17,-2.19E-17,-2.96E-16,-8.53E-19,,negative_antagonistic,0.022434113
+conv5_neuron46,Pumilio element,AU-rich element,TGTANA,TATATA,-7.79E-21,-4.72E-19,-1.97E-23,-8.57E-30,-1.10E-31,,negative_antagonistic,9.78E-10
+conv5_neuron46,Pumilio element,m6A element,TGTANA,GGAC,-1.14E-05,-0.859573364,-0.859573364,-0.000644684,-5.34E-05,,addictive,0.828784943
+conv5_neuron46,AU-rich element,m6A element,TATATA,GGAC,-0.004882813,-0.147460938,-0.365234375,-0.018554688,-0.004882813,,addictive,0.764648438
+conv5_neuron47,AU-rich element,AU-rich element,TATATA,TATATA,-1.40E-25,-6.38E-23,-4.48E-23,-3.31E-23,-1.16E-38,,negative_antagonistic,0.000280996
+conv5_neuron49,AU-rich element,AU-rich element,TATATA,TATATA,-0.009765625,-0.001953125,-0.037109375,-0.02734375,-0.001953125,,negative_synergistic,0.01953125
+conv5_neuron52,HuR,hsa-miR-128-2-5p,TTTT,CCCC,-0.19916726,3.02E-15,1.06E-12,0.401704997,1.04E-08,,addictive,0
+conv5_neuron58,m6A element,m6A element,GGAC,GGAC,-1.12E-31,-2.24E-32,-5.10E-28,-1.03E-21,-8.19E-34,,negative_antagonistic,0.00514985
+conv5_neuron62,hsa-let-7b-3p,hsa-let-7b-3p,TGTATA,TGTATA,-0.000120198,-4.66E-05,-5.96E-09,-3.87E-08,-4.27E-08,,negative_antagonistic,1.42E-06
+conv5_neuron62,AU-rich element,hsa-let-7b-3p,TATATA,TGTATA,-0.646874495,-0.976023323,-0.002025006,-0.001620928,-0.006592148,,negative_antagonistic,0.000124546

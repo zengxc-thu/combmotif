@@ -1,0 +1,9 @@
+conv1: 5
+conv2: 9
+conv3: 18
+conv4: 36
+maxpool1: 10
+maxpool2: 20
+maxpool3: 40
+maxpool4: 80
+

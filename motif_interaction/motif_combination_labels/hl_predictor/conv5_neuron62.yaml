@@ -1,0 +1,11 @@
+combination1:
+  motifA:
+    - TGTATA
+  motifB:
+    - TGTATA
+
+combination2:
+  motifA:
+    - TATATA
+  motifB:
+    - TGTATA

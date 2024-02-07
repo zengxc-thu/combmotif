@@ -1,0 +1,5 @@
+combination1:
+  motifA:
+    - NACTTT #hsa-miR-106b-5p
+  motifB:
+    - CACA

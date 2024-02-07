@@ -1,0 +1,13 @@
+num_layer: 3
+num_targets: 1
+seq_depth: 4
+model_name: mrl_predictor
+checkpoint: ../model_weights/mrl_predictor_noAUG-best.pth
+recp_path: ./recp_field/saluki_model_3layer.yaml 
+featuremap_layer_name_dict_path: ./feature_cluster_criteria/saluki_model_3layer.yaml
+resample: true
+recluster: true
+ga_patience: 30
+ind: 0-64
+multi_thread: false
+

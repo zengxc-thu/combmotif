@@ -1,0 +1,11 @@
+num_layer: 6
+num_targets: 1
+seq_depth: 6
+model_name: hl_predictor
+checkpoint: ../model_weights/hl_predictor-best.pth
+recp_path: ./recp_field/saluki_model_6layer.yaml
+featuremap_layer_name_dict_path: ./feature_cluster_criteria/saluki_model_6layer.yaml
+ga_patience: 30
+ind: 0-4
+multi_thread: false
+

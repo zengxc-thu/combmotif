@@ -1,0 +1,17 @@
+combination1:
+  motifA:
+    - TATATA 
+  motifB:
+    - TTTTTT 
+
+combination2:
+  motifA:
+    - AAAAAA 
+  motifB:
+    - TATATA 
+
+combination3:
+  motifA:
+    - AAAAAA 
+  motifB:
+    - TTTTTT 

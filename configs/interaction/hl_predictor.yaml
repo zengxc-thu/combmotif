@@ -1,0 +1,16 @@
+checkpoint: ../model_weights/hl_predictor-best.pth
+data_path: ../data/f0_c0_data0_wholeseq.h5
+recp_path: ../motif_discovery/recp_field/saluki_model_6layer.yaml
+maxactivation: ./maxact_from_trainSet
+fragment: ./fragment_location
+combination: ./motif_combination_labels
+template: ./motif_combination_labels/template.yaml
+model_name: hl_predictor
+search_patience: 100
+num_layer: 6
+num_targets: 1
+seq_depth: 6
+seed: 2024
+gpu_id: 0
+num_targets: 1
+reference_label: 0
